@@ -1,0 +1,3 @@
+# Backened Series
+This is a start of my professional backened journey with backened
+-[Model-Link]{https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWl2ekVZU3pORE5PRHItMGtPY3NvUkRVNXlvZ3xBQ3Jtc0trWFplWmFHM0NfOE1JdF9PZmNvLWwwa0FZWWNENjlobEZERkRKWHNuV3hJa3M5bDVBRG10d3ZsTGpZMWRGVlBmZVEtTE5KTTF5dGJ4V0FTcUpTYjljMU92czRINGxFcGdJbkVGUERzUG9UMWhrUTUyMA&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc}
